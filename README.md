@@ -1,5 +1,8 @@
 # World Map
 
+![npm](https://img.shields.io/npm/v/world-svg?color=blue&label=version)
+![downloads](https://img.shields.io/npm/dt/world-svg?color=green)
+
 [WorldMap](https://github.com/kushadige/world-svg) is an svg component for [React](https://reactjs.org). Renders a responsive world map. It is customizable, works great with tiny screens and can be styled to match any design.
 
 ![World Map](./img/world-map.png "world svg")
